@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.team-card{
+    text-align: center;
+    padding-top: 200px;
+    
+    
+    
+
+
+}
+.team-members ul{
+    list-style: none;
+}
+.team-info{
+   border: 1px solid black;
+   background: url(../img/R.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   
+   
+}
+.team-info img{
+    width: 100%;
+}
